@@ -8,7 +8,6 @@ This backend is part of the **Medical Records Management System** designed to ma
 - Track prior authorization requests with statuses: pending, approved, or denied.
 - RESTful API for handling patient and authorization operations.
 - Paginated patient listing for efficient retrieval of large datasets.
-- Dockerized setup for containerized development and deployment.
 
 
 ## Technologies Used
