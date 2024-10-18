@@ -10,16 +10,6 @@ This backend is part of the **Medical Records Management System** designed to ma
 - Paginated patient listing for efficient retrieval of large datasets.
 - Dockerized setup for containerized development and deployment.
 
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Project Setup](#project-setup)
-- [API Endpoints](#api-endpoints)
-- [Database Schema](#database-schema)
-- [Optimizations](#optimizations)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
